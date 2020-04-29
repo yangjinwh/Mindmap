@@ -1,5 +1,0 @@
-aaa
-bbb
-ccc
-ddd
-insert by master
