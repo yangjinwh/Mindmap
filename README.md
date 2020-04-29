@@ -1,4 +1,7 @@
 # interview
-尚硅谷Java大厂面试题第二季(java面试必学，周阳主讲)
-https://www.bilibili.com/video/BV18b411M7xz
-导图软件是MindManager，与视频中原文件高度一致
+1.尚硅谷Java大厂面试题第二季
+JVM.mmap：虚拟机部分
+JUC.mmap：多线程部分
+2.Git命令行操作
+Git.mmap
+
